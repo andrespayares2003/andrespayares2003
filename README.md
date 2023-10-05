@@ -1,5 +1,5 @@
 <h1 align="center">hola, me llamo andres payares</h1>
-<h3 align="center">Un apasionado desarrollador frontend de colombia</h3>
+<h3 align="center">A passionate frontend developer from colombia</h3>
 
 - 💬 Pregúntame sobre **html, ccs, javascript y python **
 
